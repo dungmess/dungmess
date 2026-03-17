@@ -11,13 +11,13 @@
 ---
 
 ## About Me
-- 🔭 I’m working on: Roblox + Web Projects  
-- 🌱 Learning: Cyber Security / Bug Bounty  
-- ⚡ Fun fact: I like breaking things (ethically 😈)
+- I’m working on: HopeStar Studio, Dexus VN  
+- Learning: Cyber Security / Bug Bounty  
+- Fun fact: I like MONEY
 
 ---
 
-## 🛠 Skills
+## Skills
 ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JS-black?style=for-the-badge&logo=javascript)
@@ -34,14 +34,13 @@
 
 ---
 
-## 📂 Projects
-- 🔐 Bug bounty practice (XSS, IDOR, API)
-- 🎮 Roblox game systems (shop, GUI, RNG)
-- 🌐 Personal website
+## Achievements
+- 150$ Critical Bug bounty on rbxstall.com 
+- Working on HopeStar
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dungmess&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dungmess&theme=tokyonight" />
@@ -49,7 +48,7 @@
 
 ---
 
-## 📫 Contact
-- Discord: dungdev0489
-- Email: levietdunf45@gmail.com
-- FB: https://www.facebook.com/kangaru99/
+## Contact
+- --> Discord: dungdev0489
+- --> Email: levietdunf45@gmail.com
+- --> FB: https://www.facebook.com/kangaru99/
