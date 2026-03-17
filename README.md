@@ -1,8 +1,11 @@
-<h1 align="center">Hi 👋, I'm YourName</h1>
+<h1 align="center">
+  <img src="https://s7.ezgif.com/tmp/ezgif-7de1a224b863d98c.gif" />
+</h1>
+
 <h3 align="center">💻 Web Dev | 🔐 Security Learner | 🎮 Roblox Dev</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourname&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=DungDev&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -32,12 +35,12 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourname&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DungDev&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DungDev&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📫 Contact
-- Discord: yourname#0000
-- Email: your@email.com
+- Discord: dungdev0489
+- Email: levietdunf45@email.com
