@@ -18,24 +18,18 @@
 ---
 
 ## 🛠 Skills
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua"/>
-</p>
+![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JS-black?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![Lua](https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua)
 
 ---
 
-## 📊 Skill Circle
+## 📊 Skill Radar
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-90%25-00ff00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CSS-80%25-00ff00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-75%25-00ff00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Python-70%25-00ff00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Lua-85%25-00ff00?style=for-the-badge"/>
+  <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['HTML','CSS','JS','Python','Lua'],datasets:[{label:'Skill',data:[90,80,75,70,85],backgroundColor:'rgba(0,255,0,0.2)',borderColor:'rgb(0,255,0)'}]},options:{scales:{r:{angleLines:{color:'green'},grid:{color:'green'},pointLabels:{color:'green'},ticks:{display:false}}},plugins:{legend:{labels:{color:'green'}}}}}" />
 </p>
 
 ---
@@ -56,5 +50,5 @@
 ---
 
 ## 📫 Contact
-- Discord: dungdev0489  
+- Discord: dungdev0489
 - Email: levietdunf45@email.com
