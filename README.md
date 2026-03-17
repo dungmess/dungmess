@@ -29,12 +29,13 @@
 ---
 
 ## 📊 Skill Circle
+
 <p align="center">
-  <img src="https://progress-bar.dev/90/?scale=100&title=HTML&width=110&color=00ff00" />
-  <img src="https://progress-bar.dev/80/?scale=100&title=CSS&width=110&color=00ff00" />
-  <img src="https://progress-bar.dev/75/?scale=100&title=JS&width=110&color=00ff00" />
-  <img src="https://progress-bar.dev/70/?scale=100&title=Python&width=110&color=00ff00" />
-  <img src="https://progress-bar.dev/85/?scale=100&title=Lua&width=110&color=00ff00" />
+  <img src="https://img.shields.io/badge/HTML-90%25-00ff00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CSS-80%25-00ff00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-75%25-00ff00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-70%25-00ff00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Lua-85%25-00ff00?style=for-the-badge"/>
 </p>
 
 ---
