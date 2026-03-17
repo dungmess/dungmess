@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://s7.ezgif.com/tmp/ezgif-7de1a224b863d98c.gif" />
+  <img src="ezgif-7de1a224b863d98c.gif" />
 </h1>
 
 <h3 align="center">💻 Web Dev | 🔐 Security Learner | 🎮 Roblox Dev</h3>
