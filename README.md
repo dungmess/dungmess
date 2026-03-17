@@ -18,18 +18,23 @@
 ---
 
 ## 🛠 Skills
-![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JS-black?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-![Lua](https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua)
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua"/>
+</p>
 
 ---
 
-## 📊 Skill Radar
-
+## 📊 Skill Circle
 <p align="center">
-  <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['HTML','CSS','JS','Python','Lua'],datasets:[{label:'Skill',data:[90,80,75,70,85],backgroundColor:'rgba(0,255,0,0.2)',borderColor:'rgb(0,255,0)'}]},options:{scales:{r:{angleLines:{color:'green'},grid:{color:'green'},pointLabels:{color:'green'},ticks:{display:false}}},plugins:{legend:{labels:{color:'green'}}}}}" />
+  <img src="https://progress-bar.dev/90/?scale=100&title=HTML&width=110&color=00ff00" />
+  <img src="https://progress-bar.dev/80/?scale=100&title=CSS&width=110&color=00ff00" />
+  <img src="https://progress-bar.dev/75/?scale=100&title=JS&width=110&color=00ff00" />
+  <img src="https://progress-bar.dev/70/?scale=100&title=Python&width=110&color=00ff00" />
+  <img src="https://progress-bar.dev/85/?scale=100&title=Lua&width=110&color=00ff00" />
 </p>
 
 ---
@@ -50,5 +55,5 @@
 ---
 
 ## 📫 Contact
-- Discord: dungdev0489
+- Discord: dungdev0489  
 - Email: levietdunf45@email.com
