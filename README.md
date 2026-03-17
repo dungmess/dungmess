@@ -26,10 +26,10 @@
 
 ---
 
-## 📊 Skills
+## Skills Net
 
 <p align="center">
-  <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['HTML','CSS','JS','Python','Luau'],datasets:[{label:'Skill',data:[90,60,65,90,80],backgroundColor:'rgba(0,255,0,0.2)',borderColor:'rgb(0,255,0)'}]},options:{scales:{r:{angleLines:{color:'green'},grid:{color:'green'},pointLabels:{color:'green'},ticks:{display:false}}},plugins:{legend:{labels:{color:'green'}}}}}" />
+  <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['HTML','CSS','JS','Python','Luau'],datasets:[{label:'Skill',data:[90,70,75,90,80],backgroundColor:'rgba(0,255,0,0.2)',borderColor:'rgb(0,255,0)'}]},options:{scales:{r:{angleLines:{color:'green'},grid:{color:'green'},pointLabels:{color:'green'},ticks:{display:false}}},plugins:{legend:{labels:{color:'green'}}}}}" />
 </p>
 
 ---
