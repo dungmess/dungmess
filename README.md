@@ -9,14 +9,12 @@
 
 ---
 
-## 🚀 About Me
 - 🔭 I’m working on: Roblox + Web Projects  
 - 🌱 Learning: Cyber Security / Bug Bounty  
 - ⚡ Fun fact: I like breaking things (ethically 😈)
 
 ---
 
-## 🛠 Skills
 ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JS-black?style=for-the-badge&logo=javascript)
@@ -25,17 +23,15 @@
 
 ---
 
-## 📂 Projects
 - 🔐 Bug bounty practice (XSS, IDOR, API)
 - 🎮 Roblox game systems (shop, GUI, RNG)
 - 🌐 Personal website
 
 ---
 
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DungDev&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DungDev&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dungmess&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dungmess&theme=tokyonight" />
 </p>
 
 ---
