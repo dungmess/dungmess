@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 - 🔭 I’m working on: Roblox + Web Projects  
 - 🌱 Learning: Cyber Security / Bug Bounty  
 - ⚡ Fun fact: I like breaking things (ethically 😈)
@@ -51,4 +51,5 @@
 
 ## 📫 Contact
 - Discord: dungdev0489
-- Email: levietdunf45@email.com
+- Email: levietdunf45@gmail.com
+- FB: https://www.facebook.com/kangaru99/
