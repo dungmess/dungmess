@@ -1,7 +1,6 @@
 <h1 align="center">
-  <img src="ezgif-7de1a224b863d98c.gif" />
+  <img src="https://github.com/dungmess/dungmess/raw/main/ezgif-7de1a224b863d98c.gif" width="50%" style="max-width:400px;"/>
 </h1>
-
 <h3 align="center">💻 Web Dev | 🔐 Security Learner | 🎮 Roblox Dev</h3>
 
 <p align="center">
