@@ -1,6 +1,7 @@
 <h1 align="center">
   <img src="https://github.com/dungmess/dungmess/raw/main/ezgif-7de1a224b863d98c.gif" width="50%" style="max-width:400px;"/>
 </h1>
+
 <h3 align="center">💻 Web Dev | 🔐 Security Learner | 🎮 Roblox Dev</h3>
 
 <p align="center">
@@ -9,12 +10,14 @@
 
 ---
 
+## 🚀 About Me
 - 🔭 I’m working on: Roblox + Web Projects  
 - 🌱 Learning: Cyber Security / Bug Bounty  
 - ⚡ Fun fact: I like breaking things (ethically 😈)
 
 ---
 
+## 🛠 Skills
 ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JS-black?style=for-the-badge&logo=javascript)
@@ -23,12 +26,22 @@
 
 ---
 
+## 📊 Skill Radar
+
+<p align="center">
+  <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['HTML','CSS','JS','Python','Lua'],datasets:[{label:'Skill',data:[90,80,75,70,85],backgroundColor:'rgba(0,255,0,0.2)',borderColor:'rgb(0,255,0)'}]},options:{scales:{r:{angleLines:{color:'green'},grid:{color:'green'},pointLabels:{color:'green'},ticks:{display:false}}},plugins:{legend:{labels:{color:'green'}}}}}" />
+</p>
+
+---
+
+## 📂 Projects
 - 🔐 Bug bounty practice (XSS, IDOR, API)
 - 🎮 Roblox game systems (shop, GUI, RNG)
 - 🌐 Personal website
 
 ---
 
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dungmess&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dungmess&theme=tokyonight" />
