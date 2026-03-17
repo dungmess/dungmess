@@ -35,8 +35,8 @@
 ---
 
 ## Achievements
-- <h1>150$ Critical Bug bounty on rbxstall.com </h1>
-- <h1>Working on HopeStar</h1>
+- <h2>150$ Critical Bug bounty on rbxstall.com </h2>
+- <h2>Working on HopeStar</h2>
 
 ---
 
@@ -49,8 +49,6 @@
 ---
 
 ## Contact
-<b>
 - --> Discord: dungdev0489
 - --> Email: levietdunf45@gmail.com
 - --> FB: https://www.facebook.com/kangaru99/
-</b>
