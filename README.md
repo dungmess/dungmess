@@ -35,9 +35,7 @@
 ---
 
 ## Achievements
-- <h2>150$ Critical Bug bounty on rbxstall.com </h2>
-- <h2>Working on HopeStar</h2>
-
+- Dulichviet.com.vn: quyền admin
 ---
 
 ## GitHub Stats
