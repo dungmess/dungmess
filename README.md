@@ -35,7 +35,19 @@
 ---
 
 ## Achievements
-- Dulichviet.com.vn: quyền admin
+- Dulichviet.com.vn: quyền admin
+- rbxstall.com: Vertical Privilege Escalation ( quyền admin)
+- edu.go.vn (ioe): register rate limit issue
+- Autofarm.space: mua gói đăng kí ko cần trả tiền
+- Fsel :lộ thông tin cá nhân, CORS Misconfiguration, Missing Authentication
+- shub.edu.vn: ATO, Client-Side Authorization / Role Trust Issue
+- hoanglongcomputer.vn: register rate limit issue
+- adpia.vn: OTP rate limit issue
+- nczeenzuaesgdhaiduong.vnedu.vn: SSO Logout Session Not Properly Invalidated
+- qtoj.org: Exposed API Key, register rate limit issue
+- bibung.com: chat rate limit
+- 1 cái web xem tướng số: xss
+
 ---
 
 ## GitHub Stats
