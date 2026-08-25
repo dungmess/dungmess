@@ -46,7 +46,7 @@
 - nczeenzuaesgdhaiduong.vnedu.vn: SSO Logout Session Not Properly Invalidated
 - qtoj.org: Exposed API Key, register rate limit issue
 - bibung.com: chat rate limit
-- toquiz.io.vn: Broken Business Logic & Insecure Client-Side Data Control
+- toquiz.io.vn: Broken Business Logic & Insecure Client-Side Data Control và Client-Side Admin Bypass & Plaintext API Key Exposure in DOM (Critical)
 - 1 cái web xem tướng số: xss
 
 ---
