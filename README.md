@@ -47,6 +47,10 @@
 - qtoj.org: Exposed API Key, register rate limit issue
 - bibung.com: chat rate limit
 - toquiz.io.vn: Broken Business Logic & Insecure Client-Side Data Control và Client-Side Admin Bypass & Plaintext API Key Exposure in DOM (Critical)
+- dauhuroblox.net: Cross-Origin Message Spoofing, Client-Side Parameter Tampering, CSRF / XSRF, Bypassable Client-Side Validation
+- ShopSheep.Net: Client-side Trust of Money, JWT Stored in Meta Tag, Referral Logic Abuse, Frontend-only Validation
+- hoidap247.com: Excessive Sensitive Data Exposure / Improper Data Disclosure in API
+- yourhomework.net: Unauthenticated API Access leading to Resource Exhaustion (High)
 - 1 cái web xem tướng số: xss
 
 ---
